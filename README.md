@@ -1,3 +1,11 @@
-# simple-css-fixed-header
+# Simple CSS Fixed Header
+Codeplayer Simple CSS Fixed Header project. Made with HTML &amp; CSS.
 
-Codeplayer Simple CSS Fixed Header project
+## Instructions
+Clone or download zip file. Open index.html file in your browser.
+
+## Contributing
+This repository is based on starter code from TheCodePlayer. Therefore I will not be accepting any pull requests.
+
+## Acknowledgements
+* TheCodePlayer
